@@ -1,0 +1,3 @@
+https://mybucket.s3.amazonaws.com/
+https://storage.googleapis.com/my-public-bucket/
+https://example.com/open-directory/
